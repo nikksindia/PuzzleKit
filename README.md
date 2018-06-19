@@ -1,1 +1,1 @@
-# NIKSliderPuzzle
+# SliderPuzzle
