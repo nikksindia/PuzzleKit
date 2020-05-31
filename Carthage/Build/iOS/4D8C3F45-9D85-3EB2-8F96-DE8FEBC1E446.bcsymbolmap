@@ -1,0 +1,313 @@
+BCSymbolMap Version: 2.0
+_$s9PuzzleKit13TileComponentCfD
+_$s9PuzzleKit13TileComponentCMa
+__swift_FORCE_LOAD_$_swiftCompatibility50
+__swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements
+_$sSo6CGRectVwCP
+___swift_noop_void_return
+___swift_memcpy16_4
+_$sSo6CGRectVwet
+_$sSo6CGRectVwst
+_$sSo6CGRectVMa
+_$sSo24UIGestureRecognizerStateVMa
+___swift_memcpy8_4
+_$sSo6CGSizeVwet
+_$sSo6CGSizeVwst
+_$sSo6CGSizeVMa
+_$sSo7CGPointVMa
+_$sSo6CGRectVMaTm
+_$sSo7CGPointVwet
+_$sSo7CGPointVwst
+_$s9PuzzleKit13TileComponentC12imageSectionSo7UIImageCvpWvd
+_$s9PuzzleKit13TileComponentC9imageViewSo07UIImageF0CvpWvd
+_$s9PuzzleKit13TileComponentC11doubleIndexAA06DoubleF0CSgvpWvd
+_$s9PuzzleKit13TileComponentC16orientationCount12CoreGraphics7CGFloatVvpWvd
+_$s9PuzzleKit13TileComponentC13originalFrameSo6CGRectVSgvpWvd
+_$s9PuzzleKit13TileComponentCMm
+_$s9PuzzleKitMXM
+_$s9PuzzleKit13TileComponentCMn
+_$s9PuzzleKit13TileComponentCML
+_$s9PuzzleKit13TileComponentCMf
+_symbolic _____ 9PuzzleKit13TileComponentC
+_symbolic So7UIImageC
+_symbolic So11UIImageViewC
+_symbolic 9PuzzleKit11DoubleIndexCSg
+_symbolic 12CoreGraphics7CGFloatV
+_symbolic So6CGRectVSg
+_$s9PuzzleKit13TileComponentCMF
+__swift_FORCE_LOAD_$_swiftCompatibility50_$_PuzzleKit
+__swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements_$_PuzzleKit
+_$sSo6CGRectVWV
+_$sSoMXM
+_$sSo6CGRectVMn
+_$sSo6CGRectVMf
+_$sSo6CGRectVML
+_symbolic So6CGRectV
+_$sSo6CGRectVMB
+_symbolic So7CGPointV
+_symbolic So6CGSizeV
+_$sSo6CGRectVMF
+_$sSo24UIGestureRecognizerStateVMn
+_$sSo24UIGestureRecognizerStateVMf
+_$sSo24UIGestureRecognizerStateVML
+_$sSo6CGSizeVWV
+_$sSo6CGSizeVMn
+_$sSo6CGSizeVMf
+_$sSo6CGSizeVML
+_$sSo7CGPointVWV
+_$sSo7CGPointVMn
+_$sSo7CGPointVMf
+_$sSo7CGPointVML
+_$sSo7CGPointVMB
+_$sSo7CGPointVMF
+_$sSo6CGSizeVMB
+_$sSo6CGSizeVMF
+_symbolic So24UIGestureRecognizerStateV
+_$sSo24UIGestureRecognizerStateVMB
+___swift_reflection_version
+_objc_classes
+_$s9PuzzleKit13TileComponentC11doubleIndexAcA06DoubleF0C_tcfCTq
+_$s9PuzzleKit13TileComponentCN
+Apple clang version 11.0.0 (clang-1100.0.33.15)
+<swift-imported-modules>
+/Users/dmi/Learnings/PuzzleKit
+Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)
+/Users/dmi/Learnings/PuzzleKit/PuzzleKit/TileComponent.swift
+$sSo6CGRectVMa
+<compiler-generated>
+$sSo6CGSizeVwst
+$sSo6CGSizeVwet
+__swift_memcpy8_4
+$sSo6CGRectVwst
+$sSo6CGRectVwet
+__swift_memcpy16_4
+__swift_noop_void_return
+$sSo6CGRectVwCP
+$s9PuzzleKit13TileComponentCMa
+deinit
+_$sIeg_IeyB_TR
+_$s9PuzzleKit0A4ViewC9swapTiles_5tile28duration17completionClosureyAA13TileComponentC_AISdyyctF
+_$s9PuzzleKit0A4ViewC13checkIfSolvedSbyF
+_$s9PuzzleKit0A4ViewC9swapTiles_5tile28duration17completionClosureyAA13TileComponentC_AISdyyctFyycfU_
+_$sSbIegy_10ObjectiveC8ObjCBoolVIeyBy_TR
+_$s9PuzzleKit0A4ViewC17handleMoveTilePanyySo22UIPanGestureRecognizerCF
+_$s9PuzzleKit0A4ViewC17findTileWithPoint_17searchingForFirstSbSo7CGPointV_SbtF
+_$s9PuzzleKit0A4ViewC17handleMoveTilePanyySo22UIPanGestureRecognizerCFyycfU_
+_$s9PuzzleKit0A4ViewC17handleMoveTilePanyySo22UIPanGestureRecognizerCFTo
+_$s9PuzzleKit0A4ViewC16tileDoubleTappedyySo19UIGestureRecognizerCF
+_$s9PuzzleKit0A4ViewC16tileDoubleTappedyySo19UIGestureRecognizerCFTo
+_$s9PuzzleKit0A4ViewC5frameACSo6CGRectV_tcfc
+_$s9PuzzleKit0A4ViewC5frameACSo6CGRectV_tcfcTo
+_$s9PuzzleKit0A4ViewC5coderACSgSo7NSCoderC_tcfcTo
+_$s9PuzzleKit0A4ViewCfD
+_$s9PuzzleKit0A4ViewCfETo
+_$s9PuzzleKit0A4ViewCMa
+_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiF9PuzzleKit13TileComponentC_Tg5
+_$s9PuzzleKit0A4ViewC10rotateTile_8duration17completionClosureyAA0E9ComponentC_SdyyctFTf4nnnd_n
+_$s9PuzzleKit0A4ViewC5coderACSgSo7NSCoderC_tcfcTf4gn_n
+_$s9PuzzleKit0A4ViewC16tileDoubleTappedyySo19UIGestureRecognizerCFyycfU_TA
+_$s9PuzzleKit0A4ViewC10rotateTile_8duration17completionClosureyAA0E9ComponentC_SdyyctFyycfU_TA
+_block_copy_helper
+_block_destroy_helper
+_$s9PuzzleKit0A4ViewC10rotateTile_8duration17completionClosureyAA0E9ComponentC_SdyyctFySbcfU0_TA
+_$s9PuzzleKit0A18CompletionDelegate_pSgWOe
+_$s9PuzzleKit0A4ViewC17handleMoveTilePanyySo22UIPanGestureRecognizerCFyycfU0_TA
+_$s9PuzzleKit0A4ViewC17handleMoveTilePanyySo22UIPanGestureRecognizerCFyycfU_TA
+_$s9PuzzleKit0A4ViewC9swapTiles_5tile28duration17completionClosureyAA13TileComponentC_AISdyyctFyycfU_TA
+_$s9PuzzleKit0A18CompletionDelegate_pSgXwWOh
+_block_destroy_helper.8
+_block_destroy_helper.14
+_block_destroy_helper.23
+_block_destroy_helper.29
+_$s9PuzzleKit0A4ViewC9swapTiles_5tile28duration17completionClosureyAA13TileComponentC_AISdyyctFySbcfU0_TA
+_block_copy_helper.7
+_block_copy_helper.13
+_block_copy_helper.22
+_block_copy_helper.28
+_symbolic $s9PuzzleKit0A18CompletionDelegateP
+_$s9PuzzleKit0A18CompletionDelegate_pMF
+_symbolic x
+_$s9PuzzleKit0A18CompletionDelegateMp
+_$s9PuzzleKit0A4ViewC12userDefaultsSo06NSUserE0CvpWvd
+_$s9PuzzleKit0A4ViewC8delegateAA0A18CompletionDelegate_pSgvpWvd
+_$s9PuzzleKit0A4ViewC18isGuideLinesNeededSbvpWvd
+_$s9PuzzleKit0A4ViewC02isA6SolvedSbvpWvd
+_$s9PuzzleKit0A4ViewC17allowTileShiftingSbvpWvd
+_$s9PuzzleKit0A4ViewC12imageToSolveSo7UIImageCvpWvd
+_$s9PuzzleKit0A4ViewC9tileArraySaySayAA13TileComponentCGGvpWvd
+_$s9PuzzleKit0A4ViewC11tilesPerRowSivpWvd
+_$s9PuzzleKit0A4ViewC011highlightedC0So6UIViewCvpWvd
+_$s9PuzzleKit0A4ViewC18foundTileWithPointAA0E9ComponentCSgvpWvd
+_$s9PuzzleKit0A4ViewC9firstTileAA0E9ComponentCSgvpWvd
+_$s9PuzzleKit0A4ViewC10secondTileAA0E9ComponentCSgvpWvd
+_$s9PuzzleKit0A4ViewC19firstUnorientedTileAA0F9ComponentCSgvpWvd
+_OBJC_METACLASS_$__TtC9PuzzleKit10PuzzleView
+_symbolic So6UIViewC
+_$s9PuzzleKit0A4ViewCMn
+_$s9PuzzleKit0A4ViewCML
+_$s9PuzzleKit0A4ViewCMf
+_symbolic _____ 9PuzzleKit0A4ViewC
+_symbolic So14NSUserDefaultsC
+_symbolic ______pSgXw 9PuzzleKit0A18CompletionDelegateP
+_symbolic Sb
+_symbolic SaySay9PuzzleKit13TileComponentCGG
+_symbolic Si
+_symbolic 9PuzzleKit13TileComponentCSg
+_$s9PuzzleKit0A4ViewCMF
+_symbolic 9PuzzleKit0A4ViewC
+_symbolic 9PuzzleKit13TileComponentC
+_block_descriptor
+_symbolic Ieg_
+_block_descriptor.9
+_$ss23_ContiguousArrayStorageCyypGML
+_block_descriptor.15
+_block_descriptor.24
+_block_descriptor.30
+_$s9PuzzleKit0A18CompletionDelegateTL
+_$s9PuzzleKit0A4ViewCN
+_OBJC_CLASS_$__TtC9PuzzleKit10PuzzleView
+/Users/dmi/Learnings/PuzzleKit/PuzzleKit/PuzzleBuilder.swift
+$s9PuzzleKit0A18CompletionDelegate_pSgXwWOh
+objectdestroy.26
+$s9PuzzleKit0A4ViewC9swapTiles_5tile28duration17completionClosureyAA13TileComponentC_AISdyyctFyycfU_TA
+objectdestroy.20
+$s9PuzzleKit0A4ViewC17handleMoveTilePanyySo22UIPanGestureRecognizerCFyycfU_TA
+$s9PuzzleKit0A4ViewC17handleMoveTilePanyySo22UIPanGestureRecognizerCFyycfU0_TA
+$s9PuzzleKit0A4ViewC17handleMoveTilePanyySo22UIPanGestureRecognizerCFyycfU0_
+$s9PuzzleKit0A4ViewC10rotateTile_8duration17completionClosureyAA0E9ComponentC_SdyyctFySbcfU0_TA
+$s9PuzzleKit0A4ViewC10rotateTile_8duration17completionClosureyAA0E9ComponentC_SdyyctFySbcfU0_
+block_destroy_helper
+block_copy_helper
+$s9PuzzleKit0A4ViewC10rotateTile_8duration17completionClosureyAA0E9ComponentC_SdyyctFyycfU_TA
+$s9PuzzleKit0A4ViewC10rotateTile_8duration17completionClosureyAA0E9ComponentC_SdyyctFyycfU_
+objectdestroy.2
+$s9PuzzleKit0A4ViewC16tileDoubleTappedyySo19UIGestureRecognizerCFyycfU_TA
+$s9PuzzleKit0A4ViewC16tileDoubleTappedyySo19UIGestureRecognizerCFyycfU_
+objectdestroy
+init
+$s9PuzzleKit0A4ViewCMa
+rotateTile
+$ss12_ArrayBufferV19_getElementSlowPathyyXlSiF9PuzzleKit13TileComponentC_Tg5
+$ss22_ContiguousArrayBufferV5countSivg9PuzzleKit13TileComponentC_Tg5
+$ss12_ArrayBufferV7_natives011_ContiguousaB0VyxGvg9PuzzleKit13TileComponentC_Tg5
+$ss12_ArrayBufferV9_isNativeSbvg9PuzzleKit13TileComponentC_Tg5
+tileDoubleTapped
+subscript.get
+$sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtF9PuzzleKit13TileComponentC_Tg5
+$ss12_ArrayBufferV18_nativeTypeCheckeds011_ContiguousaB0VyxGvg9PuzzleKit13TileComponentC_Tg5
+$sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFSay9PuzzleKit13TileComponentCG_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgSay9PuzzleKit13TileComponentCG_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvg9PuzzleKit13TileComponentC_Tg5
+$sSa15_checkSubscript_20wasNativeTypeCheckeds16_DependenceTokenVSi_SbtF9PuzzleKit13TileComponentC_Tg5
+$ss12_ArrayBufferV37_checkInoutAndNativeTypeCheckedBounds_03wasfgH0ySi_SbtF9PuzzleKit13TileComponentC_Tg5
+$sSa29_hoistableIsNativeTypeCheckedSbyF9PuzzleKit13TileComponentC_Tg5
+$ss12_ArrayBufferV32arrayPropertyIsNativeTypeCheckedSbvg9PuzzleKit13TileComponentC_Tg5
+$ss12_ArrayBufferV20_isNativeTypeCheckedSbvg9PuzzleKit13TileComponentC_Tg5
+$sSa15_checkSubscript_20wasNativeTypeCheckeds16_DependenceTokenVSi_SbtFSay9PuzzleKit13TileComponentCG_Tg5
+$ss12_ArrayBufferV37_checkInoutAndNativeTypeCheckedBounds_03wasfgH0ySi_SbtFSay9PuzzleKit13TileComponentCG_Tg5
+$ss22_ContiguousArrayBufferV5countSivgSay9PuzzleKit13TileComponentCG_Tg5
+handleMoveTilePan
+$s9PuzzleKit0A4ViewC17handleMoveTilePanyySo22UIPanGestureRecognizerCFyycfU_
+findTileWithPoint
+next
+$sSnyxGSlsSxRzSZ6StrideRpzrlSl9formIndex5aftery0C0Qzz_tFTWSi_Tg5
+$sSnsSxRzSZ6StrideRpzrlE5index5afterxx_tFSi_Tg5
+$sSiSxsSx8advanced2byx6StrideQz_tFTW
+$sSiSQsSQ2eeoiySbx_xtFZTW
+==
+count.get
+$sSa9_getCountSiyF9PuzzleKit13TileComponentC_Tg5
+$sSlsE20_failEarlyRangeCheck_6boundsy5IndexQz_SNyADGtFs18_CocoaArrayWrapperV_Tgq5
+$sSlsE20_failEarlyRangeCheck_6boundsy5IndexQz_SnyADGtFSnySiG_Tg5
+$sSiSLsSL1loiySbx_xtFZTW
+$sSa9_getCountSiyFSay9PuzzleKit13TileComponentCG_Tg5
+$sSiSLsSL2leoiySbx_xtFZTW
+_allocateUninitializedArray
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
+$ss22_ContiguousArrayBufferV5count7storageAByxGSi_s01_aB7StorageCyxGtcfCyp_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFyp_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgyp_Tg5
+$ss23_ContiguousArrayStorageCyypGMa
+$sSbIegy_10ObjectiveC8ObjCBoolVIeyBy_TR
+$s9PuzzleKit0A4ViewC9swapTiles_5tile28duration17completionClosureyAA13TileComponentC_AISdyyctFyycfU_
+checkIfSolved
+swapTiles
+$sIeg_IeyB_TR
+_$s9PuzzleKit11DoubleIndexCfD
+_$s9PuzzleKit11DoubleIndexCMa
+_$s9PuzzleKit11DoubleIndexC03rowD0SiSgvpWvd
+_$s9PuzzleKit11DoubleIndexC06columnD0SiSgvpWvd
+_$s9PuzzleKit11DoubleIndexCMm
+_$s9PuzzleKit11DoubleIndexCMn
+_$s9PuzzleKit11DoubleIndexCML
+_$s9PuzzleKit11DoubleIndexCMf
+_symbolic _____ 9PuzzleKit11DoubleIndexC
+_symbolic SiSg
+_$s9PuzzleKit11DoubleIndexCMF
+_$s9PuzzleKit11DoubleIndexC6index16index2ACSi_SitcfCTq
+_$s9PuzzleKit11DoubleIndexC16concatenateToIntSiyFTq
+_$s9PuzzleKit11DoubleIndexC19concatenateToStringSSyFTq
+_$s9PuzzleKit11DoubleIndexCN
+/Users/dmi/Learnings/PuzzleKit/PuzzleKit/DoubleIndex.swift
+$s9PuzzleKit11DoubleIndexCMa
+Apple clang version 11.0.0 (clang-1100.0.33.17)
+/Users/dmi/Library/Developer/Xcode/DerivedData/PuzzleKit-dkgjekpvkugwzuffuxdzfltfuose/Build/Intermediates.noindex/ArchiveIntermediates/PuzzleKit/IntermediateBuildFilesPath/PuzzleKit.build/Release-iphoneos/PuzzleKit.build/DerivedSources/PuzzleKit_vers.c
+_swift_getFunctionReplacement50
+_swift_getOrigOfReplaceable50
+/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/bin/clang-11 --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/CompatibilityDynamicReplacements -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/CompatibilityDynamicReplacements -I include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/llvm/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/llvm/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/cmark/src -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -std=c++11 -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -fno-sanitize=all -D LLVM_DISABLE_ABI_BREAKING_CHECKS_ENFORCING=1 -O2 -D NDEBUG -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fno-exceptions -fno-rtti -Wall -Wglobal-constructors -Wexit-time-destructors -fvisibility=hidden -Wall -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibilityDynamicReplacements -fembed-bitcode=all --target=armv7-apple-ios7.0 -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk -arch armv7 -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/Library/Frameworks -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -MD -MT stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-armv7.dir/DynamicReplaceable.cpp.o -MF stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-armv7.dir/DynamicReplaceable.cpp.o.d -o stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-armv7.dir/DynamicReplaceable.cpp.o -c /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -mlinker-version=512.4 -march=armv7a -stdlib=libc++
+/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp
+/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/swift-macosx-x86_64
+swift_getOrigOfReplaceable50
+Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp
+/BuildRoot/Library/Caches/com.apple.xbs
+swift_getFunctionReplacement50
+__ZN5swift17getRootSuperclassEv
+__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E
+__ZL24registerAddImageCallbackPv
+__ZZZN5swift17getRootSuperclassEvENK3$_0clEvENUlPvE_8__invokeES1_
+__ZL16addImageCallbackPK11mach_headerl
+__ZZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_EE5token
+__ZZZN5swift17getRootSuperclassEvENK3$_0clEvE7TheLazy
+__ZL27ProtocolConformancesSection
+_DummyTargetContextDescriptor
+/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/bin/clang-11 --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility50 -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/Compatibility50 -I include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/llvm/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/llvm/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/cmark/src -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -std=c++11 -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -fno-sanitize=all -D LLVM_DISABLE_ABI_BREAKING_CHECKS_ENFORCING=1 -O2 -D NDEBUG -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fno-exceptions -fno-rtti -Wall -Wglobal-constructors -Wexit-time-destructors -fvisibility=hidden -Wall -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility50 -fembed-bitcode=all --target=armv7-apple-ios7.0 -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk -arch armv7 -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/Library/Frameworks -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -MD -MT stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-armv7.dir/ProtocolConformance.cpp.o -MF stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-armv7.dir/ProtocolConformance.cpp.o.d -o stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-armv7.dir/ProtocolConformance.cpp.o -c /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/Compatibility50/ProtocolConformance.cpp -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -mlinker-version=512.4 -march=armv7a -stdlib=libc++
+/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/Compatibility50/ProtocolConformance.cpp
+addImageCallback
+Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/Compatibility50/ProtocolConformance.cpp
+_getTypeDescriptorLocation
+Sources/swiftlang/swiftlang-1100.0.282.1/swift/include/swift/ABI/Metadata.h
+get
+Sources/swiftlang/swiftlang-1100.0.282.1/swift/include/swift/Basic/RelativePointer.h
+getTypeKind
+getTypeReferenceKind
+Sources/swiftlang/swiftlang-1100.0.282.1/swift/include/swift/ABI/MetadataValues.h
+applyRelativeOffset<const swift::RelativeDirectPointerImpl<swift::TargetProtocolConformanceDescriptor<swift::InProcess>, false, int>, int>
+__invoke
+operator()
+registerAddImageCallback
+swift50override_conformsToProtocol
+_swift50override_class_getSuperclass
+getMetadataForClass
+Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/Compatibility50/../../public/runtime/Private.h
+dyn_cast<swift::TargetForeignClassMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> >
+Sources/swiftlang/swiftlang-1100.0.282.1/llvm/include/llvm/Support/Casting.h
+isa<swift::TargetForeignClassMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> *>
+doit
+classof
+getKind
+classHasSuperclass
+getClassObject
+getEnumeratedMetadataKind
+CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/usr/include/dispatch/once.h
+/BuildRoot
+getRootSuperclass
+Sources/swiftlang/swiftlang-1100.0.282.1/swift/include/swift/Basic/Lazy.h
+__ZL29installGetClassHook_untrustedv
+__ZL35getObjCClassByMangledName_untrustedPKcPP10objc_class
+_Overrides
+__ZL15OldGetClassHook
+/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/bin/clang-11 --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility50 -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/Compatibility50 -I include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/llvm/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/llvm/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/cmark/src -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -std=c++11 -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -fno-sanitize=all -D LLVM_DISABLE_ABI_BREAKING_CHECKS_ENFORCING=1 -O2 -D NDEBUG -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fno-exceptions -fno-rtti -Wall -Wglobal-constructors -Wexit-time-destructors -fvisibility=hidden -Wall -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility50 -fembed-bitcode=all --target=armv7-apple-ios7.0 -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk -arch armv7 -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/Library/Frameworks -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -MD -MT stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-armv7.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-armv7.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-armv7.dir/Overrides.cpp.o -c /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/Compatibility50/Overrides.cpp -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -mlinker-version=512.4 -march=armv7a -stdlib=libc++
+/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/Compatibility50/Overrides.cpp
+getObjCClassByMangledName_untrusted
+Sources/swiftlang/swiftlang-1100.0.282.1/swift/stdlib/toolchain/Compatibility50/Overrides.cpp
+installGetClassHook_untrusted

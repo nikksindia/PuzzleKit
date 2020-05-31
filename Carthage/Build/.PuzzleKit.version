@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "5a2471534e9438933dd355855fcdf4c7c2a321ac",
+  "iOS" : [
+    {
+      "name" : "PuzzleKit",
+      "hash" : "5687f104b5b0e098c6ab71cd38b32ec80282d0c7f2251aa92a98748f90fac1a2",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}

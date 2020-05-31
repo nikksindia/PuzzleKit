@@ -1,0 +1,11 @@
+framework module PuzzleKit {
+  umbrella header "PuzzleKit.h"
+
+  export *
+  module * { export * }
+}
+
+module PuzzleKit.Swift {
+    header "PuzzleKit-Swift.h"
+    requires objc
+}
